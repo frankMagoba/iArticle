@@ -1,5 +1,5 @@
 # iArticle
-Content Publishing System Angular 1 
+Content Publishing System Angular Js
 
 
 # Questions
